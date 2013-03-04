@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuaInterface", "LuaInterface.csproj", "{BF70FE38-2B2E-4730-8896-CC609652D0EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE8E1681-8991-4C93-B2AA-13814E8C2037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simple_test", "simple_test\simple_test.csproj", "{96A096F4-7614-4250-B5E0-2EB234908F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Debug|Win32.ActiveCfg = Debug|x86
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Debug|x86.ActiveCfg = Debug|x86
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Debug|x86.Build.0 = Debug|x86
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Release|Win32.ActiveCfg = Release|x86
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Release|x86.ActiveCfg = Release|x86
+		{BF70FE38-2B2E-4730-8896-CC609652D0EC}.Release|x86.Build.0 = Release|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Debug|Win32.ActiveCfg = Debug|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Debug|x86.ActiveCfg = Debug|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Debug|x86.Build.0 = Debug|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Release|Win32.ActiveCfg = Release|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Release|x86.ActiveCfg = Release|x86
+		{96A096F4-7614-4250-B5E0-2EB234908F8E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
